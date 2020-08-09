@@ -18,7 +18,7 @@
 var fs = require('fs');
 var readline = require('readline');
 
-var cardFile = 'cardsFrench.json',
+var cardFile = 'cardsRussian.json',
     quizList = [],
     quizTimer = 4000,
     today = new Date(),

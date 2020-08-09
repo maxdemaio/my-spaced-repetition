@@ -1,6 +1,65 @@
 [
-    {
-        "side1": "как",
-        "side2": "(adv) how"
-    }
+  {
+    "side1": "как",
+    "side2": "(adv) how",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "да",
+    "side2": "yes",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "кто",
+    "side2": "(pron) who",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "там",
+    "side2": "(adv) there",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "нет",
+    "side2": "no",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "он",
+    "side2": "(pron) he",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "она",
+    "side2": "(pron) she",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  }
 ]
