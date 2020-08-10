@@ -5,6 +5,8 @@
     - noun: noun
     - nm:   masculine noun
     - nf:   feminine noun
+    - conj: conjuction
+    - phr: phrase
 
 - Perhaps access Duolingo API and get the words I have learned and just add them to the JSON?
     - https://www.duolingo.com/vocabulary/overview shows all the words for the last language you practiced

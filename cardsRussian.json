@@ -1,7 +1,7 @@
 [
   {
-    "side1": "как",
-    "side2": "(adv) how",
+    "side1": "Как",
+    "side2": "(adv) How",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -9,8 +9,8 @@
     "EF": 2.6
   },
   {
-    "side1": "да",
-    "side2": "yes",
+    "side1": "Да",
+    "side2": "Yes",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -18,8 +18,8 @@
     "EF": 2.6
   },
   {
-    "side1": "кто",
-    "side2": "(pron) who",
+    "side1": "Кто",
+    "side2": "(pron) Who",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -27,8 +27,8 @@
     "EF": 2.5
   },
   {
-    "side1": "там",
-    "side2": "(adv) there",
+    "side1": "Там",
+    "side2": "(adv) There",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -36,8 +36,8 @@
     "EF": 2.5
   },
   {
-    "side1": "нет",
-    "side2": "no",
+    "side1": "Нет",
+    "side2": "No",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -45,8 +45,8 @@
     "EF": 2.6
   },
   {
-    "side1": "он",
-    "side2": "(pron) he",
+    "side1": "Он",
+    "side2": "(pron) He",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
@@ -54,12 +54,47 @@
     "EF": 2.6
   },
   {
-    "side1": "она",
-    "side2": "(pron) she",
+    "side1": "Она",
+    "side2": "(pron) She",
     "nextDate": "2020-08-10T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 1,
     "reps": 1,
     "EF": 2.6
+  },
+  {
+    "side1": "Завтра",
+    "side2": "(adv/noun) Tomorrow",
+    "nextDate": "2020-08-15T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.36
+  },
+  {
+    "side1": "Или",
+    "side2": "(conj) Or",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "Как дела?",
+    "side2": "(phr) How are you/How are things?",
+    "nextDate": "2020-08-10T04:00:00.000Z",
+    "prevDate": "2020-08-09T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1":"Спасибо",
+    "side2": "(phr) Thank you"
+  },
+  {
+    "side1": "Я",
+    "side2": "(pron) I"
   }
 ]
