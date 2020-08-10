@@ -96,5 +96,9 @@
   {
     "side1": "Я",
     "side2": "(pron) I"
+  },
+  {
+    "side1": "Что",
+    "side2": "(pron/det/adv) What"
   }
 ]

@@ -1,14 +1,26 @@
 [
     {
-        "side1": "aglio",
+        "side1": "Aglio",
         "side2": "(nm) garlic"
     },
     {
-        "side1": "affrontare",
-        "side2": "(vtr) take on, confront"
+        "side1": "Affrontare",
+        "side2": "(vtr) To take on, To confront"
     },
     {
-        "side1": "impaziente",
-        "side2": "(adj) impatient"
+        "side1": "Impaziente",
+        "side2": "(adj) Impatient"
+    },
+    {
+        "side1": "Decisamente",
+        "side2": "(adv) Certainly/No doubt"
+    },
+    {
+        "side1": "Megera",
+        "side2": "(nf) Witch/Crone/Harpy"
+    },
+    {
+        "side1": "Pazzo",
+        "side2": "(adj) Crazy/Mad/Insane"
     }
 ]
