@@ -92,28 +92,76 @@
   {
     "side1": "Спасибо",
     "side2": "(phr) Thank you",
-    "nextDate": "2020-08-11T04:00:00.000Z",
+    "nextDate": "2020-08-17T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
+    "interval": 6,
+    "reps": 2,
     "EF": 2.5
   },
   {
     "side1": "Я",
     "side2": "(pron) I",
-    "nextDate": "2020-08-11T04:00:00.000Z",
+    "nextDate": "2020-08-17T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "Что",
     "side2": "(pron/det/adv) What",
-    "nextDate": "2020-08-11T04:00:00.000Z",
+    "nextDate": "2020-08-18T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
+  },
+  {
+    "side1": "брат",
+    "side2": "(noun) brother",
+    "nextDate": "2020-08-13T04:00:00.000Z",
+    "prevDate": "2020-08-12T04:00:00.000Z",
     "interval": 1,
     "reps": 1,
     "EF": 2.5
+  },
+  {
+    "side1": "кошка",
+    "side2": "(noun) cat",
+    "nextDate": "2020-08-13T04:00:00.000Z",
+    "prevDate": "2020-08-12T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "молоко",
+    "side2": "(noun) milk",
+    "nextDate": "2020-08-13T04:00:00.000Z",
+    "prevDate": "2020-08-12T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "Вода",
+    "side2": "(noun) water",
+    "nextDate": "2020-08-13T04:00:00.000Z",
+    "prevDate": "2020-08-12T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "сестра",
+    "side2": "(noun) sister"
+  },
+  {
+    "side1": "это",
+    "side2": "(phr) this is..."
+  },
+  {
+    "side1": "Пицца",
+    "side2": "(noun) pizza"
   }
 ]
