@@ -21,6 +21,7 @@
 - Add Cards
     - Check if side1 already exists, if not add card 
     - Somehow import from sth like google sheets csv? just clear it out every time
+    - Read from csv if file provided in option command line arg
 
 - Add example field to Cards
 - Should be an array of strings, and loop over them and print on a new line once answer is displayed
