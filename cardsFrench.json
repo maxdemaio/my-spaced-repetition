@@ -281,14 +281,55 @@
   {
     "side1": "chat",
     "side2": "(nm) cat",
-    "nextDate": "2020-08-13T04:00:00.000Z",
+    "nextDate": "2020-08-19T04:00:00.000Z",
     "prevDate": "2020-08-12T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "colistier/colistière",
-    "side2": "(nm/nf) running mate, fellow candidate"
+    "side2": "(nm/nf) running mate, fellow candidate",
+    "nextDate": "2020-08-20T04:00:00.000Z",
+    "prevDate": "2020-08-13T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
+  },
+  {
+    "side1": "renseigner [qqn]",
+    "side2": "(vtr) inform, give [sb] information, give information to [sb]",
+    "nextDate": "2020-08-20T04:00:00.000Z",
+    "prevDate": "2020-08-13T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
+  },
+  {
+    "side1": "sympa",
+    "side2": "(adj) nice, likeable, kind, friendly",
+    "nextDate": "2020-08-20T04:00:00.000Z",
+    "prevDate": "2020-08-13T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
+  },
+  {
+    "side1": "déranger",
+    "side2": "(vtr) disturb, bother, interrupt",
+    "nextDate": "2020-08-20T04:00:00.000Z",
+    "prevDate": "2020-08-13T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
+  },
+  {
+    "side1": "camion",
+    "side2": "(nm) truck",
+    "nextDate": "2020-08-15T04:00:00.000Z",
+    "prevDate": "2020-08-14T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]

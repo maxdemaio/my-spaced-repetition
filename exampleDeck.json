@@ -1,11 +1,20 @@
 [
     {
-        "side1": "agacé",
-        "side2": "(adj) Irritated, annoyed",
-        
+        "side1": "это",
+        "side2": "(phr) this is...",
+        "nextDate": "2020-08-20T04:00:00.000Z",
+        "prevDate": "2020-08-13T04:00:00.000Z",
+        "interval": 6,
+        "reps": 2,
+        "EF": 2.6
     },
     {
-        "side1": "chat",
-        "side2": "(nm) cat"
+        "side1": "Пицца",
+        "side2": "(noun) pizza",
+        "nextDate": "2020-08-20T04:00:00.000Z",
+        "prevDate": "2020-08-13T04:00:00.000Z",
+        "interval": 6,
+        "reps": 2,
+        "EF": 2.5
     }
 ]
