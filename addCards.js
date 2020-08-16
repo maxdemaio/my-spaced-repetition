@@ -1,10 +1,5 @@
 /// Add a card to a given deck with a front/back side with optional examples
 
-/// If optional parameter is given with initial startup ex) 'node addCards.js newCards.csv'
-/// Then cards will be added from that specified file, rather than manually in the command line
-/// This will work for CSV and Excel files, so long as they have the following headers:
-/// side1, side2, examples
-/// Note: if there are any examples, delimit them with underscores
 
 // Load modules
 var fs = require('fs');
@@ -26,12 +21,16 @@ rl.question("Front side: ", function (front) {
     rl.question("Back side: ", function (back) {
         rl.question("Examples (delimit with underscores): ", function (examples) {
             // Populate new card
-            // TODO do error checking on front/back/examples
+            
+            // TODO Check if front or back is blank and re-prompt if so
             let newCard = {};
             newCard["side1"] = front;
             newCard["side2"] = back;
-            newCard["examples"] = examples.split("_");
-
+            // Check if examples is blank, otherwise don't add attribute
+            if (examples != "") {
+                newCard["examples"] = examples.split("_");
+            }
+            
             console.log(`\nFront side: "${front}"\nBack side: "${back}"\nExamples: "${examples}"\n`);
 
             updateDeck(newCard);
@@ -47,7 +46,14 @@ function updateDeck(newCard) {
         if (err) throw err;
         cards = JSON.parse(data);
 
-        // TODO check if front side already exists in cards
+        // Check if front side already exists in cards
+        for (var x = 0; x < cards.length; x++) {
+            currentCard = cards[x];
+            if (currentCard.side1 === newCard.side1) {
+                console.log("Side1 already exists in deck");
+                process.exit(1);
+            };
+        };
 
         // Adding new data to card deck object
         cards.push(newCard);

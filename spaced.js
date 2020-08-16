@@ -18,7 +18,7 @@
 var fs = require('fs');
 var readline = require('readline');
 
-var cardFile = 'cardsItalian.json',
+var cardFile = 'cardsFrench.json',
     quizList = [],
     quizTimer = 4000,
     today = new Date(),
@@ -122,6 +122,13 @@ function quizCard(card) {
     console.log("Side 1: " + card.side1);
     setTimeout(function() {
       console.log("Side 2: " + card.side2);
+      // Print examples if any exist
+      if (card.examples) {
+        console.log("Examples:");
+        for (var x = 0; x < card.examples.length; x++) {
+          console.log(card.examples[x]);
+        };
+      };
       getUserInput("Grade> ", updateCard, card);
     }, quizTimer);
 }
