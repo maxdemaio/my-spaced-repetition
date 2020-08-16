@@ -1,4 +1,5 @@
 /// Add a card to a given deck with a front/back side with optional examples
+/// This allows users to store examples for each of their cards in a deck
 
 
 // Load modules
@@ -7,7 +8,8 @@ var readline = require('readline');
 var rl = readline.createInterface(process.stdin, process.stdout);
 
 // Set card deck
-var cardFile = 'exampleDeck.json'
+language = "French"
+var cardFile = 'cards' + language + '.json'
 
 console.log("Welcome to Command Line Spaced Repetition (Add cards)!\n" +
     "Here you can add cards to your specified deck:\n" +
@@ -16,31 +18,35 @@ console.log("Welcome to Command Line Spaced Repetition (Add cards)!\n" +
     "Examples for the card should be delimited by underscores.\n");
 
 
-// Get input from user and add card to deck
-rl.question("Front side: ", function (front) {
-    rl.question("Back side: ", function (back) {
-        rl.question("Examples (delimit with underscores): ", function (examples) {
-            // Populate new card
-            
-            // TODO Check if front or back is blank and re-prompt if so
-            let newCard = {};
-            newCard["side1"] = front;
-            newCard["side2"] = back;
-            // Check if examples is blank, otherwise don't add attribute
-            if (examples != "") {
-                newCard["examples"] = examples.split("_");
-            }
-            
-            console.log(`\nFront side: "${front}"\nBack side: "${back}"\nExamples: "${examples}"\n`);
+function getUserInput() {
+    rl.question("Front side: ", function (front) {
+        rl.question("Back side: ", function (back) {
+            rl.question("Examples (delimit with underscores): ", function (examples) {
+                // Check if front or back is blank
+                if (front === "" || back === "") {
+                    console.log("Front/Back side cannot be blank");
+                    process.exit(1);
+                };
 
-            updateDeck(newCard);
-            rl.close();
+                // Populate new card
+                let newCard = {};
+                newCard["side1"] = front;
+                newCard["side2"] = back;
+                // Check if examples are blank, otherwise don't add attribute
+                if (examples != "") {
+                    newCard["examples"] = examples.split("_");
+                };
+                console.log(`\nFront side: "${front}"\nBack side: "${back}"\nExamples: "${examples}"\n`);
+
+                updateDeck(newCard);
+                rl.close();
+            });
         });
     });
-});
+};
+
 
 function updateDeck(newCard) {
-    console.log("Adding new card...");
     fs.readFile(cardFile, function (err, data) {
 
         if (err) throw err;
@@ -49,9 +55,9 @@ function updateDeck(newCard) {
         // Check if front side already exists in cards
         for (var x = 0; x < cards.length; x++) {
             currentCard = cards[x];
-            if (currentCard.side1 === newCard.side1) {
+            if (currentCard.side1.toLowerCase() === newCard.side1.toLowerCase()) {
                 console.log("Side1 already exists in deck");
-                process.exit(1);
+                process.exit(2);
             };
         };
 
@@ -59,6 +65,7 @@ function updateDeck(newCard) {
         cards.push(newCard);
 
         // Write changes to card deck
+        console.log("Adding new card...");
         fs.writeFile(cardFile, JSON.stringify(cards), err => {
 
             // Checking for errors 
@@ -68,3 +75,6 @@ function updateDeck(newCard) {
         });
     });
 };
+
+// Start addCards program
+getUserInput();

@@ -2,92 +2,92 @@
   {
     "side1": "Как",
     "side2": "(adv) How",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Да",
     "side2": "Yes",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Кто",
     "side2": "(pron) Who",
-    "nextDate": "2020-08-15T04:00:00.000Z",
+    "nextDate": "2020-08-24T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
-    "interval": 5,
-    "reps": 3,
-    "EF": 2.36
+    "interval": 8,
+    "reps": 4,
+    "EF": 2.46
   },
   {
     "side1": "Там",
     "side2": "(adv) There",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-21T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.5
   },
   {
     "side1": "Нет",
     "side2": "No",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Он",
     "side2": "(pron) He",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Она",
     "side2": "(pron) She",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Завтра",
     "side2": "(adv/noun) Tomorrow",
-    "nextDate": "2020-08-15T04:00:00.000Z",
+    "nextDate": "2020-08-17T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 1,
+    "reps": 1,
     "EF": 2.36
   },
   {
     "side1": "Или",
     "side2": "(conj) Or",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-21T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.5
   },
   {
     "side1": "Как дела?",
     "side2": "(phr) How are you/How are things?",
-    "nextDate": "2020-08-16T04:00:00.000Z",
+    "nextDate": "2020-08-22T04:00:00.000Z",
     "prevDate": "2020-08-09T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.5
+    "reps": 3,
+    "EF": 2.6
   },
   {
     "side1": "Спасибо",
@@ -177,6 +177,60 @@
     "prevDate": "2020-08-13T04:00:00.000Z",
     "interval": 6,
     "reps": 2,
+    "EF": 2.5
+  },
+  {
+    "side1": "добрый вечер",
+    "side2": "(phr) good evening",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "добрый день",
+    "side2": "(phr) good afternoon",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "извините",
+    "side2": "(phr) Excuse me",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "доброе утро",
+    "side2": "(phr) good morning",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "до скорого",
+    "side2": "(phr) See you",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "до свиданя",
+    "side2": "(phr) goodbye",
+    "nextDate": "2020-08-17T04:00:00.000Z",
+    "prevDate": "2020-08-16T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
     "EF": 2.5
   }
 ]
