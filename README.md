@@ -18,11 +18,13 @@ To run
 ------
 - Make sure you have [Node.js](http://nodejs.org) installed.
 - Clone the repo and create your word list (see `exampleDeck.json`)
-- On the command line run: `node spaced.js`
+- On the command line run: 
+    - `node spaced.js`
 
 Add cards via the command line
 ------
 
-- If you prefer to add cards via the command line rather than editting the raw JSON file you can run: `node addCards.js`
+- If you prefer to add cards via the command line rather than editting the raw JSON file you can run:
+    - `node addCards.js`
 
 Here you will be able to add new cards to a specified deck. You can also provide examples (delimited by underscores). Each example will be shown along with the answer in spaced repetition practice.
