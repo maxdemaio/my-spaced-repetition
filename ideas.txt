@@ -5,6 +5,7 @@
     - noun: noun
     - nm:   masculine noun
     - nf:   feminine noun
+    - nn:   neutral noun
     - conj: conjuction
     - phr:  phrase
     - det:  determiner

@@ -1,0 +1,21 @@
+{
+  "done": [],
+  "in-progress": [],
+  "testing": [],
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Maxwell DeMaio"
+      },
+      "category": "Ideas",
+      "creation_time": "2020-09-05T12:58:10.815Z",
+      "details": {
+        "content": "https://beautifier.io/",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Beautify json file after saving new card"
+    }
+  ]
+}
