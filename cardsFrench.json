@@ -1,1 +1,364 @@
-[{"side1":"agacé","side2":"(adj) Irritated, annoyed","nextDate":"2020-08-22T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":5,"reps":3,"EF":2.5},{"side1":"aubergine","side2":"(nf) eggplant","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"chagrin","side2":"(nm) grief","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":2,"EF":2.36},{"side1":"capituler","side2":"(vi) to surrender, capitulate, give in","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"embrouille","side2":"(nf) confusion, muddle","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"affréter","side2":"(vtr) to charter","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"s'entêter","side2":"(vf) to persist","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.7},{"side1":"redémarrer","side2":"(vi) restart/start again","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"démissioner","side2":"(vi) resign/quit","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"auprès de","side2":"(prep) near/close to/beside/next to","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"grève","side2":"(nf) strike","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"souffle","side2":"(nm) breath/breeze","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"verser","side2":"(vtr) to pour","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"aller de soi","side2":"(phr) goes without saying","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"innombrable","side2":"(adj) countless, innumerable","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"parcourir","side2":"(vtr) travel, cross, roam, go all over [sth]","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"secourir","side2":"(vtr) save, help, rescue, give first aid to","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.6},{"side1":"secouer","side2":"(vtr) shake, mix, figuratively shock, affect, shake up","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.6},{"side1":"taré","side2":"(adj) out of your mind, crazy","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"maudire","side2":"(vtr) to curse (souhaiter malheur)","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"nier","side2":"(vtr/vi) to deny","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"déprimé","side2":"(adj) depressed","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"soupirer","side2":"(vi) to sigh","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"raccourci","side2":"(nm) shortcut, quick way","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"empilement","side2":"(nm) piling, stacking, piling up/stacking up","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"consacré à [qch/qqn]","side2":"(adj + prep) devoted to [sth/sb] / dedicated to [sth/sb]","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"reconnaître","side2":"(vtr) recognize, acknowledge","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"déluge","side2":"(nm) downpour, deluge, torrential rain","nextDate":"2020-08-23T04:00:00.000Z","prevDate":"2020-08-10T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"têtu","side2":"(adj) stubborn, obstinate","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-11T04:00:00.000Z","interval":6,"reps":3,"EF":2.8000000000000003},{"side1":"à moins que + [subjonctif]","side2":"(conj) unless","nextDate":"2020-08-21T04:00:00.000Z","prevDate":"2020-08-11T04:00:00.000Z","interval":1,"reps":1,"EF":2.7},{"side1":"pourri","side2":"(adj) rotten, decayed, lousy","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-11T04:00:00.000Z","interval":6,"reps":3,"EF":2.7},{"side1":"colistier/colistière","side2":"(nm/nf) running mate, fellow candidate","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-13T04:00:00.000Z","interval":6,"reps":3,"EF":2.7},{"side1":"renseigner [qqn]","side2":"(vtr) inform, give [sb] information, give information to [sb]","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-13T04:00:00.000Z","interval":6,"reps":3,"EF":2.6},{"side1":"sympa","side2":"(adj) nice, likeable, kind, friendly","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-13T04:00:00.000Z","interval":6,"reps":3,"EF":2.7},{"side1":"déranger","side2":"(vtr) disturb, bother, interrupt","nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-13T04:00:00.000Z","interval":6,"reps":3,"EF":2.7},{"side1":"camion","side2":"(nm) truck","nextDate":"2020-08-21T04:00:00.000Z","prevDate":"2020-08-14T04:00:00.000Z","interval":6,"reps":2,"EF":2.7},{"side1":"convenir à [qch/qqn]","side2":"(vtr) be suitable for [sth/sb]","examples":["Cette situation ne convient pas à Vladimir Poutine"],"nextDate":"2020-08-26T04:00:00.000Z","prevDate":"2020-08-17T04:00:00.000Z","interval":6,"reps":2,"EF":2.5},{"side1":"parvenir","side2":"(vtr) reach, get as far as [sth]","examples":["un mois me suffira pour y parvenir"]},{"side1":"je n'y manquerai pas","side2":"(expr) I won't forget it, I won't forget"}, {"side1": "péter un câble", "side2": "(expr) blow a fuse, lose it, go beserk", "examples": ["Il a dû péter un câble!"]}]
+[
+	{
+		"side1": "agacé",
+		"side2": "(adj) Irritated, annoyed",
+		"nextDate": "2020-08-22T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 5,
+		"reps": 3,
+		"EF": 2.5
+	},
+	{
+		"side1": "aubergine",
+		"side2": "(nf) eggplant",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "chagrin",
+		"side2": "(nm) grief",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 2,
+		"EF": 2.36
+	},
+	{
+		"side1": "capituler",
+		"side2": "(vi) to surrender, capitulate, give in",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "embrouille",
+		"side2": "(nf) confusion, muddle",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "affréter",
+		"side2": "(vtr) to charter",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "s'entêter",
+		"side2": "(vf) to persist",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.7
+	},
+	{
+		"side1": "redémarrer",
+		"side2": "(vi) restart/start again",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "démissioner",
+		"side2": "(vi) resign/quit",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "auprès de",
+		"side2": "(prep) near/close to/beside/next to",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "grève",
+		"side2": "(nf) strike",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "souffle",
+		"side2": "(nm) breath/breeze",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "verser",
+		"side2": "(vtr) to pour",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "aller de soi",
+		"side2": "(phr) goes without saying",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "innombrable",
+		"side2": "(adj) countless, innumerable",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "parcourir",
+		"side2": "(vtr) travel, cross, roam, go all over [sth]",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "secourir",
+		"side2": "(vtr) save, help, rescue, give first aid to",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.6
+	},
+	{
+		"side1": "secouer",
+		"side2": "(vtr) shake, mix, figuratively shock, affect, shake up",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.6
+	},
+	{
+		"side1": "taré",
+		"side2": "(adj) out of your mind, crazy",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "maudire",
+		"side2": "(vtr) to curse (souhaiter malheur)",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "nier",
+		"side2": "(vtr/vi) to deny",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "déprimé",
+		"side2": "(adj) depressed",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "soupirer",
+		"side2": "(vi) to sigh",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "raccourci",
+		"side2": "(nm) shortcut, quick way",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "empilement",
+		"side2": "(nm) piling, stacking, piling up/stacking up",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "consacré à [qch/qqn]",
+		"side2": "(adj + prep) devoted to [sth/sb] / dedicated to [sth/sb]",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "reconnaître",
+		"side2": "(vtr) recognize, acknowledge",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "déluge",
+		"side2": "(nm) downpour, deluge, torrential rain",
+		"nextDate": "2020-08-23T04:00:00.000Z",
+		"prevDate": "2020-08-10T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "têtu",
+		"side2": "(adj) stubborn, obstinate",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-11T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.8000000000000003
+	},
+	{
+		"side1": "à moins que + [subjonctif]",
+		"side2": "(conj) unless",
+		"nextDate": "2020-08-21T04:00:00.000Z",
+		"prevDate": "2020-08-11T04:00:00.000Z",
+		"interval": 1,
+		"reps": 1,
+		"EF": 2.7
+	},
+	{
+		"side1": "pourri",
+		"side2": "(adj) rotten, decayed, lousy",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-11T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.7
+	},
+	{
+		"side1": "colistier/colistière",
+		"side2": "(nm/nf) running mate, fellow candidate",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-13T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.7
+	},
+	{
+		"side1": "renseigner [qqn]",
+		"side2": "(vtr) inform, give [sb] information, give information to [sb]",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-13T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.6
+	},
+	{
+		"side1": "sympa",
+		"side2": "(adj) nice, likeable, kind, friendly",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-13T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.7
+	},
+	{
+		"side1": "déranger",
+		"side2": "(vtr) disturb, bother, interrupt",
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-13T04:00:00.000Z",
+		"interval": 6,
+		"reps": 3,
+		"EF": 2.7
+	},
+	{
+		"side1": "camion",
+		"side2": "(nm) truck",
+		"nextDate": "2020-08-21T04:00:00.000Z",
+		"prevDate": "2020-08-14T04:00:00.000Z",
+		"interval": 6,
+		"reps": 2,
+		"EF": 2.7
+	},
+	{
+		"side1": "convenir à [qch/qqn]",
+		"side2": "(vtr) be suitable for [sth/sb]",
+		"examples": [
+			"Cette situation ne convient pas à Vladimir Poutine"
+		],
+		"nextDate": "2020-08-26T04:00:00.000Z",
+		"prevDate": "2020-08-17T04:00:00.000Z",
+		"interval": 6,
+		"reps": 2,
+		"EF": 2.5
+	},
+	{
+		"side1": "parvenir",
+		"side2": "(vtr) reach, get as far as [sth]",
+		"examples": [
+			"un mois me suffira pour y parvenir"
+		]
+	},
+	{
+		"side1": "je n'y manquerai pas",
+		"side2": "(expr) I won't forget it, I won't forget"
+	},
+	{
+		"side1": "péter un câble",
+		"side2": "(expr) blow a fuse, lose it, go beserk",
+		"examples": [
+			"Il a dû péter un câble!"
+		]
+	},
+	{
+		"side1": "onde",
+		"side2": "(nf) wave (figurative and literal)",
+		"examples": [
+			"Une onde de satisfaction",
+			"L'onde de choc"
+		]
+	}
+]
