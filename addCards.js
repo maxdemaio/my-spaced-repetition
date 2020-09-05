@@ -8,7 +8,7 @@ var readline = require('readline');
 var rl = readline.createInterface(process.stdin, process.stdout);
 
 // Set card deck
-language = "Russian"
+language = "French"
 var cardFile = 'cards' + language + '.json'
 
 console.log("Welcome to Command Line Spaced Repetition (Add cards)!\n" +
@@ -66,7 +66,7 @@ function updateDeck(newCard) {
 
         // Write changes to card deck and beautify
         console.log("Adding new card...");
-        fs.writeFile(cardFile, JSON.stringify(cards, null, "\t"), err => {
+        fs.writeFile(cardFile, JSON.stringify(cards, null, "  "), err => {
 
             // Checking for errors 
             if (err) throw err;
