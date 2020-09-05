@@ -8,7 +8,7 @@ This is a command line spaced repetition program written in Javascript using Nod
 previously learned material in order to exploit the psychological spacing effect.
 It is very useful for learning a new language or specific sets of information.
 
-**Basically information you know well is shown less often, information you don't know well is shown more often.**
+**Basically, information you know well is shown less often and information you don't know well is shown more often.**
 
 The algorithm implemented in this app is the SM-2 algorithm used in the SuperMemo-2 software as well as the popular 
 open source Anki software. The algorithm is described in detail here: https://www.supermemo.com/en/archives1990-2015/english/ol/sm2
