@@ -11,7 +11,8 @@ var rl = readline.createInterface(process.stdin, process.stdout);
 language = "French"
 var cardFile = 'cards' + language + '.json'
 
-console.log("Welcome to Command Line Spaced Repetition (Add cards)!\n" +
+console.log(`Language: ${language}\n` +
+    "Welcome to Command Line Spaced Repetition (Add cards)!\n" +
     "Here you can add cards to your specified deck:\n" +
     "When prompted for the front side, type what should be displayed.\n" +
     "When asked for the back side, type what the answer should be.\n" + 
@@ -66,9 +67,9 @@ function updateDeck(newCard) {
 
         // Write changes to card deck and beautify
         console.log("Adding new card...");
-        fs.writeFile(cardFile, JSON.stringify(cards, null, "  "), err => {
+        fs.writeFile(cardFile, JSON.stringify(cards, null, 2), err => {
 
-            // Checking for errors 
+            // Checking for errors
             if (err) throw err;
 
             console.log("Card added"); // Success 

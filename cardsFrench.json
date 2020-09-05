@@ -405,5 +405,14 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.6
+  },
+  {
+    "side1": "tiens",
+    "side2": "(expr) here!, here you go (informal interjection)",
+    "nextDate": "2020-09-06T04:00:00.000Z",
+    "prevDate": "2020-09-05T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]

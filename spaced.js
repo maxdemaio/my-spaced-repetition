@@ -27,7 +27,8 @@ var cardFile = 'cards' + language + '.json',
 
 today.setHours(0,0,0,0);
 
-console.log("Welcome to Command Line Spaced Repetition!\n" +
+console.log(`Language: ${language}\n` +
+  "Welcome to Command Line Spaced Repetition!\n" +
   "After each word please grade yourself as follows:\n" +
   "(0) What the heck was that? (No recognition)\n" +
   "(1) Wrong answer, but recognized the word.\n" +

@@ -1,22 +1,22 @@
 [
-	{
-		"side1": "это",
-		"side2": "(phr) this is...",
-		"examples": [
-			"это мой кот",
-			"это мой папа"
-		]
-	},
-	{
-		"side1": "Пицца",
-		"side2": "(noun) pizza"
-	},
-	{
-		"side1": "chat",
-		"side2": "(nm) cat",
-		"examples": [
-			"Elle a un chat",
-			"Il a un chat"
-		]
-	}
+  {
+    "side1": "это",
+    "side2": "(phr) this is...",
+    "examples": [
+      "это мой кот",
+      "это мой папа"
+    ]
+  },
+  {
+    "side1": "Пицца",
+    "side2": "(noun) pizza"
+  },
+  {
+    "side1": "chat",
+    "side2": "(nm) cat",
+    "examples": [
+      "Elle a un chat",
+      "Il a un chat"
+    ]
+  }
 ]
