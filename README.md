@@ -17,7 +17,7 @@ open source Anki software. The algorithm is described in detail here: https://ww
 To run
 ------
 - Make sure you have [Node.js](http://nodejs.org) installed.
-- Clone the repo and create your word list (see `exampleDeck.json`)
+- Clone the repo and create your word list (see `cardsExample.json`)
 - Navigate to `spaced.js` and change the language variable to "Example"
 - On the command line run: 
     - `node spaced.js`
