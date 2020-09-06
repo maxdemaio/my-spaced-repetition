@@ -1,5 +1,9 @@
 Command Line Spaced Repetition
 =================
+
+
+<img src="./static/memo-graph.webp">
+
 This is a command line spaced repetition program written in Javascript using Node.js.
 
 **Please note:** The original version of this repository was created by [Joe Del](https://github.com/joedel). Since inactive, I have copied the repository over and will continue to improve the application. This repository encapsulates my personal changes to the original application (adding language decks/features).
