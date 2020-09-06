@@ -414,5 +414,27 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.6
+  },
+  {
+    "side1": "viser",
+    "side2": "(vi) aim / viser [qch] = aim at sth",
+    "examples": [
+      "Il vaut mieux viser haut!"
+    ]
+  },
+  {
+    "side1": "repérage",
+    "side2": "(nm) tracking, spotting, finding"
+  },
+  {
+    "side1": "effrayer",
+    "side2": "(vtr) frighten"
+  },
+  {
+    "side1": "quand il s'agit de...",
+    "side2": "(expr) when it comes to",
+    "examples": [
+      "quand il s'agit d'une fille comme toi"
+    ]
   }
 ]

@@ -142,5 +142,9 @@
     "interval": 6,
     "reps": 2,
     "EF": 2.6
+  },
+  {
+    "side1": "cane",
+    "side2": "(nm) dog"
   }
 ]

@@ -34,7 +34,6 @@
     - Note: None of the words have accents in the roman examples
 
 - Add Cards
-    - Beautify json file after saving a card (example: https://beautifier.io/) (make it so it actually works to show how many cards need to practice, maybe spaces instead?)
     - Check if side1 already exists, if not add card 
     - Somehow import from sth like google sheets csv? just clear it out every time
     - Read from csv/excel if file provided in option command line arg 'node addCards.js exampleWithTerm.csv
