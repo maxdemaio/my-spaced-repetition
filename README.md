@@ -2,7 +2,7 @@ Command Line Spaced Repetition
 =================
 
 
-<img src="./static/memo-graph.webp">
+<img src="./static/memo-graph.webp"  width=250>
 
 This is a command line spaced repetition program written in Javascript using Node.js.
 
