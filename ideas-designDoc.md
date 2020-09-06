@@ -16,10 +16,16 @@
     - vf:   reflexive verb
     - prep: preposition
 
-## Functionality
+## Functionality (In process)
 
 ### `spaced.js`
-- To be added
+- Global variables
+    - `cardFile` - String for the name of the current card file
+    - `quizList` - 
+    - `quizTimer` - Integer that represents the amount of milliseconds before the answer is shown
+    - `today` - 
+    - `cards` - Array of card objects
+    - `cardCount` - Integer that is incremented in order to grab current card from array
 
 ### `addCards.js`
 - Prompt user for side1, if already exists it cannot be added.
@@ -36,3 +42,11 @@
 - Add Cards
     - Somehow import from sth like google sheets csv? just clear it out every time
     - Read from csv/excel if file provided in option command line arg 'node addCards.js exampleWithTerm.csv
+
+- Fix count function (essentially it's the difference between count and cardcount)
+    - why would they be different?
+    - It is fine with cards w/o dates
+
+    - Possible fixes
+        - try old version and see if it counts
+        - note old version works! (refactor not spaced)

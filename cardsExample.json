@@ -17,6 +17,11 @@
     "examples": [
       "Elle a un chat",
       "Il a un chat"
-    ]
+    ],
+    "nextDate": "2020-08-23T04:00:00.000Z",
+    "prevDate": "2020-08-10T04:00:00.000Z",
+    "interval": 6,
+    "reps": 3,
+    "EF": 2.8000000000000003
   }
 ]
