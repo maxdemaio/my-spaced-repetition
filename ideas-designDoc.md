@@ -15,6 +15,7 @@
     - vtr:  transitive verb
     - vf:   reflexive verb
     - prep: preposition
+    - loc:  locution
 
 ## Functionality (In process)
 

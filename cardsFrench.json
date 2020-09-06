@@ -465,5 +465,16 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.6
+  },
+  {
+    "side1": "la moitié de [qch]",
+    "side2": "(loc prep) half"
+  },
+  {
+    "side1": "faire le guet",
+    "side2": "(expr) stake out, be on watch, be on the lookout",
+    "examples": [
+      "pourquoi est-ce que tu fais le guet devant chez moi?"
+    ]
   }
 ]

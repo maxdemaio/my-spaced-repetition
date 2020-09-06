@@ -2,149 +2,154 @@
   {
     "side1": "Aglio",
     "side2": "(nm) garlic",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Affrontare",
     "side2": "(vtr) To take on, To confront",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-14T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.7
+    "interval": 8,
+    "reps": 4,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "Impaziente",
     "side2": "(adj) Impatient",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Decisamente",
     "side2": "(adv) Certainly/No doubt",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Megera",
     "side2": "(nf) Witch/Crone/Harpy",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Pazzo",
     "side2": "(adj) Crazy/Mad/Insane",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "romanzo",
     "side2": "(nm) novel",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "croce",
     "side2": "(nf) cross",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-14T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
+    "interval": 8,
+    "reps": 4,
     "EF": 2.8000000000000003
   },
   {
     "side1": "finché",
     "side2": "(conj) as long as",
-    "nextDate": "2020-08-23T04:00:00.000Z",
+    "nextDate": "2020-09-14T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
+    "interval": 8,
+    "reps": 4,
     "EF": 2.8000000000000003
   },
   {
     "side1": "partita",
     "side2": "(nf) game, match",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-12T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "sopra",
     "side2": "(adv/prep) above, on top of, atop",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-11T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
     "side1": "sotto",
     "side2": "(adv/prep) under, underneath, below, beneath",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-11T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
     "side1": "roba",
     "side2": "(nf) stuff, thing",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-11T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
     "side1": "ormai",
     "side2": "(adv) by now, at this point, already",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-13T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.36
+    "interval": 7,
+    "reps": 4,
+    "EF": 2.2199999999999998
   },
   {
     "side1": "che schifo!",
     "side2": "(phr) How gross!, How disgusting!, Yuck!",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-12T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "scarso",
     "side2": "(adj) scarce, inadequate, lacking",
-    "nextDate": "2020-08-18T04:00:00.000Z",
+    "nextDate": "2020-09-11T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.6
   },
   {
     "side1": "cane",
-    "side2": "(nm) dog"
+    "side2": "(nm) dog",
+    "nextDate": "2020-09-07T04:00:00.000Z",
+    "prevDate": "2020-09-06T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]
