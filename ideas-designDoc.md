@@ -12,8 +12,10 @@
     - phr:  phrase
     - det:  determiner
     - vi:   intransitive verb
-    - vtr:  transitive verb
     - vf:   reflexive verb
+    - vtr:  transitive verb
+    - vftr: reflexive transitive verb
+    - vfi: reflexive intransitive verb
     - prep: preposition
     - loc:  locution
 

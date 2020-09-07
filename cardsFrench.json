@@ -421,29 +421,29 @@
     "examples": [
       "Il vaut mieux viser haut!"
     ],
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-13T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "repérage",
     "side2": "(nm) tracking, spotting, finding",
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-15T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.36
+    "interval": 8,
+    "reps": 5,
+    "EF": 1.9399999999999997
   },
   {
     "side1": "effrayer",
     "side2": "(vtr) frighten",
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-13T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.5
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "quand il s'agit de...",
@@ -451,30 +451,159 @@
     "examples": [
       "quand il s'agit d'une fille comme toi"
     ],
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-13T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "donjon",
     "side2": "(nm) dungeon",
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-13T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "la moitié de [qch]",
-    "side2": "(loc prep) half"
+    "side2": "(loc prep) half",
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "faire le guet",
     "side2": "(expr) stake out, be on watch, be on the lookout",
     "examples": [
       "pourquoi est-ce que tu fais le guet devant chez moi?"
-    ]
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "goinfre",
+    "side2": "(nm) glutton, pig",
+    "examples": [
+      "Tu es un vrai goinfre"
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "mollasson/mollassonne",
+    "side2": "(adj/nm/nf) sluggish, lethargic, lackluster / sluggish person, sluggard",
+    "examples": [
+      "Mes hommes ne sont pas des mollassons!"
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "balayer",
+    "side2": "(vtr) to sweep",
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "en tant que [qqn/qch]",
+    "side2": "(loc adv + prep) as, in the capacity of",
+    "examples": [
+      "En tant que maire, je souhaite développer le centre-ville",
+      "En tant que guilde, nous ne pouvons pas accepter sans rien dire"
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "franchir",
+    "side2": "(vtr) to jump over, break through, cross, pass",
+    "examples": [
+      "Puis franchir le secteur du labyrinthe"
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "démence",
+    "side2": "(nf) insanity, craziness",
+    "examples": [
+      "Elle a sombré dans la démence après la mort de son mari."
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "empêcher",
+    "side2": "(vtr) to prevent, avoid, put a stop to [sth]",
+    "examples": [
+      "La conférence a empêché le conflit."
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "se désintégrer",
+    "side2": "(vftr) to break up, disintegrate, decay",
+    "examples": [
+      "Les roches se désintègrent naturellement par érosion."
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
+  },
+  {
+    "side1": "patrouille",
+    "side2": "(nf) patrol",
+    "examples": [
+      "le lieutenant a envoyé une patrouille en reconaissance",
+      "Les patrouilles sont plus nombreuses depuis l'attentat"
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "se dérober à [qch]",
+    "side2": "to evade, to shy away from [sth]",
+    "examples": [
+      "Elle s'est dérobée à ses obligations."
+    ],
+    "nextDate": "2020-09-08T04:00:00.000Z",
+    "prevDate": "2020-09-07T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
   }
 ]

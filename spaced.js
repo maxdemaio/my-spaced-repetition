@@ -14,7 +14,7 @@
 var fs = require('fs');
 var readline = require('readline');
 
-var language = 'Example'
+var language = 'French'
 var cardFile = 'cards' + language + '.json',
   quizList = [],
   quizTimer = 4000,
