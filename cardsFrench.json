@@ -605,5 +605,39 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.5
+  },
+  {
+    "side1": "achever",
+    "side2": "(vtr) finish, complete",
+    "examples": [
+      "Vous pourrez lire mon roman quand je l'aurai achevé"
+    ]
+  },
+  {
+    "side1": "chatouiller",
+    "side2": "(vtr) tickle",
+    "examples": [
+      "ça chatouille!",
+      "la jeune maman chatouillait son bébé"
+    ]
+  },
+  {
+    "side1": "chiffoner [qch/qqn]",
+    "side2": "(vtr) to crumple [sth] up/to bother, worry",
+    "examples": [
+      "Il y a quelque chose qui me chiffonne"
+    ]
+  },
+  {
+    "side1": "fardeau",
+    "side2": "(nm) burden, load, weight",
+    "examples": [
+      "Je suis un fardeau pour toi",
+      "Ce fardeau est trop lourd pour elle"
+    ]
+  },
+  {
+    "side1": "Ne t'emballe pas!",
+    "side2": "(expr) don't get ahead of yourself, don't get carried away"
   }
 ]
