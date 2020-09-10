@@ -146,10 +146,10 @@
   {
     "side1": "cane",
     "side2": "(nm) dog",
-    "nextDate": "2020-09-07T04:00:00.000Z",
+    "nextDate": "2020-09-14T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   }
 ]
