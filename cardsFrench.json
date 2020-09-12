@@ -718,5 +718,29 @@
   {
     "side1": "Je m'en doutais",
     "side2": "(expr) I was suspecting as much, I was imagining so"
+  },
+  {
+    "side1": "filer",
+    "side2": "(vi) (quitter rapidement un lieu) to run, dash off, fly, be off",
+    "examples": [
+      "Excuse-moi, il est midi, il faut que je file",
+      "Filez, soyez libre"
+    ]
+  },
+  {
+    "side1": "livrer [qch] (à [qqn])",
+    "side2": "(vtr) to deliver [sth] to [sb]/ to deliver",
+    "examples": [
+      "Ce magasin nous a livré notre machine à laver en 4 jours.",
+      "Tu veux essayer de livrer le courrier?"
+    ]
+  },
+  {
+    "side1": "ficelle",
+    "side2": "(nf) string / when in plural form: tricks, secrets, ins and outs",
+    "examples": [
+      "Apprenez-lui toutes les ficelles du métier",
+      "Entoure le paquet d'une ficelle"
+    ]
   }
 ]
