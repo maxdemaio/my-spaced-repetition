@@ -8,7 +8,6 @@
 // The algorithm is described here: http://www.supermemo.com/english/ol/sm2.htm
 
 // Open Source MIT LICENSE
-// This code lives here: https://github.com/joedel/spaced-repetition/
 // Any feedback or tips to improve greatly appreciated.
 
 var fs = require('fs');
@@ -155,7 +154,7 @@ function calcIntervalEF(card, grade) {
     } else {
       card.EF = newEF;
     }
-
+    // Card studied, so add rep
     card.reps = card.reps + 1;
 
     switch (card.reps) {
