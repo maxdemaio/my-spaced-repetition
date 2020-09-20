@@ -2,326 +2,326 @@
   {
     "side1": "agacé",
     "side2": "(adj) Irritated, annoyed",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-26T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.5
+    "interval": 10,
+    "reps": 5,
+    "EF": 2.6
   },
   {
     "side1": "aubergine",
     "side2": "(nf) eggplant",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "chagrin",
     "side2": "(nm) grief",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 5,
-    "EF": 2.0799999999999996
+    "interval": 11,
+    "reps": 6,
+    "EF": 2.1799999999999997
   },
   {
     "side1": "capituler",
     "side2": "(vi) to surrender, capitulate, give in",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-29T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 13,
+    "reps": 6,
+    "EF": 2.66
   },
   {
     "side1": "embrouille",
     "side2": "(nf) confusion, muddle",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "affréter",
     "side2": "(vtr) to charter",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "s'entêter",
     "side2": "(vf) to persist",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "redémarrer",
     "side2": "(vi) restart/start again",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "démissioner",
     "side2": "(vi) resign/quit",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "auprès de",
     "side2": "(prep) near/close to/beside/next to",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "grève",
     "side2": "(nf) strike",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "souffle",
     "side2": "(nm) breath/breeze",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "verser",
     "side2": "(vtr) to pour",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "aller de soi",
     "side2": "(phr) goes without saying",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "innombrable",
     "side2": "(adj) countless, innumerable",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "parcourir",
     "side2": "(vtr) travel, cross, roam, go all over [sth]",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "secourir",
     "side2": "(vtr) save, help, rescue, give first aid to",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-26T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
+    "interval": 10,
+    "reps": 5,
     "EF": 2.6
   },
   {
     "side1": "secouer",
     "side2": "(vtr) shake, mix, figuratively shock, affect, shake up",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-30T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.6
+    "interval": 14,
+    "reps": 7,
+    "EF": 2.32
   },
   {
     "side1": "taré",
     "side2": "(adj) out of your mind, crazy",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "maudire",
     "side2": "(vtr) to curse (souhaiter malheur)",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "nier",
     "side2": "(vtr/vi) to deny",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "déprimé",
     "side2": "(adj) depressed",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "soupirer",
     "side2": "(vi) to sigh",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "raccourci",
     "side2": "(nm) shortcut, quick way",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.9000000000000004
+    "interval": 12,
+    "reps": 5,
+    "EF": 3.0000000000000004
   },
   {
     "side1": "empilement",
     "side2": "(nm) piling, stacking, piling up/stacking up",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "consacré à [qch/qqn]",
     "side2": "(adj + prep) devoted to [sth/sb] / dedicated to [sth/sb]",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "reconnaître",
     "side2": "(vtr) recognize, acknowledge",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.9000000000000004
+    "interval": 12,
+    "reps": 5,
+    "EF": 3.0000000000000004
   },
   {
     "side1": "déluge",
     "side2": "(nm) downpour, deluge, torrential rain",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "têtu",
     "side2": "(adj) stubborn, obstinate",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-28T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "à moins que + [subjonctif]",
     "side2": "(conj) unless",
-    "nextDate": "2020-09-11T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.8000000000000003
+    "reps": 3,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "pourri",
     "side2": "(adj) rotten, decayed, lousy",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "colistier/colistière",
     "side2": "(nm/nf) running mate, fellow candidate",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "renseigner [qqn]",
     "side2": "(vtr) inform, give [sb] information, give information to [sb]",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.6
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.7
   },
   {
     "side1": "sympa",
     "side2": "(adj) nice, likeable, kind, friendly",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "déranger",
     "side2": "(vtr) disturb, bother, interrupt",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-27T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "camion",
     "side2": "(nm) truck",
-    "nextDate": "2020-09-11T04:00:00.000Z",
+    "nextDate": "2020-09-24T04:00:00.000Z",
     "prevDate": "2020-08-14T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.7
+    "interval": 8,
+    "reps": 4,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "convenir à [qch/qqn]",
@@ -329,11 +329,11 @@
     "examples": [
       "Cette situation ne convient pas à Vladimir Poutine"
     ],
-    "nextDate": "2020-09-10T04:00:00.000Z",
+    "nextDate": "2020-09-24T04:00:00.000Z",
     "prevDate": "2020-08-17T04:00:00.000Z",
-    "interval": 5,
-    "reps": 3,
-    "EF": 2.5
+    "interval": 8,
+    "reps": 4,
+    "EF": 2.6
   },
   {
     "side1": "parvenir",
@@ -341,19 +341,19 @@
     "examples": [
       "un mois me suffira pour y parvenir"
     ],
-    "nextDate": "2020-09-10T04:00:00.000Z",
+    "nextDate": "2020-09-24T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 5,
-    "reps": 3,
-    "EF": 2.2199999999999998
+    "interval": 8,
+    "reps": 5,
+    "EF": 2.0799999999999996
   },
   {
     "side1": "je n'y manquerai pas",
     "side2": "(expr) I won't forget it, I won't forget",
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.6
   },
   {
@@ -362,10 +362,10 @@
     "examples": [
       "Il a dû péter un câble!"
     ],
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
@@ -375,11 +375,11 @@
       "Une onde de satisfaction",
       "L'onde de choc"
     ],
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "palier",
@@ -388,10 +388,10 @@
       "la salle du boss en haut du premier palier",
       "Nous habitons sur le même palier"
     ],
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
@@ -400,19 +400,19 @@
     "examples": [
       "L'argent et les objects que vous avez récoltés"
     ],
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-24T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "interval": 8,
+    "reps": 4,
+    "EF": 2.56
   },
   {
     "side1": "tiens",
     "side2": "(expr) here!, here you go (informal interjection)",
-    "nextDate": "2020-09-12T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
@@ -421,29 +421,29 @@
     "examples": [
       "Il vaut mieux viser haut!"
     ],
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.7
   },
   {
     "side1": "repérage",
     "side2": "(nm) tracking, spotting, finding",
-    "nextDate": "2020-09-15T04:00:00.000Z",
+    "nextDate": "2020-09-26T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 8,
-    "reps": 5,
-    "EF": 1.9399999999999997
+    "interval": 10,
+    "reps": 6,
+    "EF": 2.0399999999999996
   },
   {
     "side1": "effrayer",
     "side2": "(vtr) frighten",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.6
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.7
   },
   {
     "side1": "quand il s'agit de...",
@@ -451,29 +451,29 @@
     "examples": [
       "quand il s'agit d'une fille comme toi"
     ],
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "donjon",
     "side2": "(nm) dungeon",
-    "nextDate": "2020-09-13T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "la moitié de [qch]",
     "side2": "(loc prep) half",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "faire le guet",
@@ -481,11 +481,11 @@
     "examples": [
       "pourquoi est-ce que tu fais le guet devant chez moi?"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "goinfre",
@@ -493,11 +493,11 @@
     "examples": [
       "Tu es un vrai goinfre"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.6
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.7
   },
   {
     "side1": "mollasson/mollassonne",
@@ -505,20 +505,20 @@
     "examples": [
       "Mes hommes ne sont pas des mollassons!"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "balayer",
     "side2": "(vtr) to sweep",
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "en tant que [qqn/qch]",
@@ -527,11 +527,11 @@
       "En tant que maire, je souhaite développer le centre-ville",
       "En tant que guilde, nous ne pouvons pas accepter sans rien dire"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "franchir",
@@ -539,10 +539,10 @@
     "examples": [
       "Puis franchir le secteur du labyrinthe"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.5
   },
   {
@@ -551,10 +551,10 @@
     "examples": [
       "Elle a sombré dans la démence après la mort de son mari."
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.6
   },
   {
@@ -563,11 +563,11 @@
     "examples": [
       "La conférence a empêché le conflit."
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.6
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.7
   },
   {
     "side1": "se désintégrer",
@@ -575,11 +575,11 @@
     "examples": [
       "Les roches se désintègrent naturellement par érosion."
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.5
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.6
   },
   {
     "side1": "patrouille",
@@ -588,11 +588,11 @@
       "le lieutenant a envoyé une patrouille en reconaissance",
       "Les patrouilles sont plus nombreuses depuis l'attentat"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "se dérober à [qch]",
@@ -600,10 +600,10 @@
     "examples": [
       "Elle s'est dérobée à ses obligations."
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-07T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.5
   },
   {
@@ -612,10 +612,10 @@
     "examples": [
       "Vous pourrez lire mon roman quand je l'aurai achevé"
     ],
-    "nextDate": "2020-09-14T04:00:00.000Z",
+    "nextDate": "2020-09-21T04:00:00.000Z",
     "prevDate": "2020-09-08T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
+    "interval": 5,
+    "reps": 3,
     "EF": 2.36
   },
   {
@@ -625,11 +625,11 @@
       "ça chatouille!",
       "la jeune maman chatouillait son bébé"
     ],
-    "nextDate": "2020-09-09T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-08T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "chiffoner [qch/qqn]",
@@ -637,10 +637,10 @@
     "examples": [
       "Il y a quelque chose qui me chiffonne"
     ],
-    "nextDate": "2020-09-09T04:00:00.000Z",
+    "nextDate": "2020-09-23T04:00:00.000Z",
     "prevDate": "2020-09-08T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
+    "interval": 6,
+    "reps": 2,
     "EF": 2.5
   },
   {
@@ -650,19 +650,19 @@
       "Je suis un fardeau pour toi",
       "Ce fardeau est trop lourd pour elle"
     ],
-    "nextDate": "2020-09-09T04:00:00.000Z",
+    "nextDate": "2020-09-22T04:00:00.000Z",
     "prevDate": "2020-09-08T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
+    "interval": 6,
+    "reps": 2,
     "EF": 2.5
   },
   {
     "side1": "Ne t'emballe pas!",
     "side2": "(expr) don't get ahead of yourself, don't get carried away",
-    "nextDate": "2020-09-09T04:00:00.000Z",
+    "nextDate": "2020-09-23T04:00:00.000Z",
     "prevDate": "2020-09-08T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
+    "interval": 6,
+    "reps": 2,
     "EF": 2.5
   },
   {
@@ -670,54 +670,99 @@
     "side2": "(nm) ditch, moat / (figurative) gap, gulf",
     "examples": [
       "le fossé entre animhommes et humains persistent"
-    ]
+    ],
+    "nextDate": "2020-09-22T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.46
   },
   {
     "side1": "acharnement",
-    "side2": "(nm) relentlessness, tenacity, dedication / persecution, harassment"
+    "side2": "(nm) relentlessness, tenacity, dedication / persecution, harassment",
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.5
   },
   {
     "side1": "fauché",
     "side2": "(adj) penniless, broke",
     "examples": [
       "Tu sais bien que je suis fauchée"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "radin/radine",
-    "side2": "(adj/nm/nf) stingy / cheapskate"
+    "side2": "(adj/nm/nf) stingy / cheapskate",
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "louche",
     "side2": "(adj) shady, shifty, suspect",
     "examples": [
       "Cette histoire est bien loche"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "glauque",
     "side2": "(adj) shady, seedy / blue-green, (water) murky",
     "examples": [
       "C'est glauque, non?"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.5
   },
   {
     "side1": "bouleverser",
     "side2": "(vtr) figurative: upset, disrupt, / devestate, overwhelm, move [sb] deeply",
     "examples": [
       "La mort des enfants dans cet accident a bouleversé le village"
-    ]
+    ],
+    "nextDate": "2020-09-22T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.36
   },
   {
     "side1": "repérer",
     "side2": "(vtr) to notice, spot, detect",
     "examples": [
       "Je sais où on peut passer sans se faire repérer"
-    ]
+    ],
+    "nextDate": "2020-09-22T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.36
   },
   {
     "side1": "Je m'en doutais",
-    "side2": "(expr) I was suspecting as much, I was imagining so"
+    "side2": "(expr) I was suspecting as much, I was imagining so",
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.5
   },
   {
     "side1": "filer",
@@ -725,7 +770,12 @@
     "examples": [
       "Excuse-moi, il est midi, il faut que je file",
       "Filez, soyez libre"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.5
   },
   {
     "side1": "livrer [qch] (à [qqn])",
@@ -733,7 +783,12 @@
     "examples": [
       "Ce magasin nous a livré notre machine à laver en 4 jours.",
       "Tu veux essayer de livrer le courrier?"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "ficelle",
@@ -741,6 +796,59 @@
     "examples": [
       "Apprenez-lui toutes les ficelles du métier",
       "Entoure le paquet d'une ficelle"
-    ]
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
+  },
+  {
+    "side1": "avoir le moral dans les chaussettes",
+    "side2": "(expr) to be down in the dumps, to be low in spirits",
+    "examples": [
+      "Vous semblez avoir le moral dans les chaussettes"
+    ],
+    "nextDate": "2020-09-23T04:00:00.000Z",
+    "prevDate": "2020-09-16T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
+  },
+  {
+    "side1": "rembaucher",
+    "side2": "(vtr) rehire, re-employ / get back to work, start work again",
+    "examples": [
+      "Elle a été rembauchée cet été"
+    ],
+    "nextDate": "2020-09-24T04:00:00.000Z",
+    "prevDate": "2020-09-17T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
+  },
+  {
+    "side1": "berceuse",
+    "side2": "(nf) lullaby / rocking chair",
+    "examples": [
+      "La maman chantait une berceuse"
+    ],
+    "nextDate": "2020-09-24T04:00:00.000Z",
+    "prevDate": "2020-09-17T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
+  },
+  {
+    "side1": "avoir du cran",
+    "side2": "(expr) to have guts, to be brave",
+    "examples": [
+      "Vous avez du cran, jeune femme"
+    ],
+    "nextDate": "2020-09-26T04:00:00.000Z",
+    "prevDate": "2020-09-18T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   }
 ]
