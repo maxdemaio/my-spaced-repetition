@@ -292,5 +292,20 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.5
+  },
+  {
+    "side1": "что не так?",
+    "side2": "(expr) What's wrong?"
+  },
+  {
+    "side1": "пожалуйста",
+    "side2": "(expr) please"
+  },
+  {
+    "side1": "отлично",
+    "side2": "(adj) perfect",
+    "examples": [
+      "Всё отлично!"
+    ]
   }
 ]

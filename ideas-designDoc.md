@@ -53,3 +53,7 @@
     - Possible fixes
         - try old version and see if it counts
         - note old version works! (refactor not spaced)
+
+- Add optional parameter to spaced.js and addCards.js where you can specify the deck at the command line so you don't have to open the program every time to change languages
+
+- For spaced.js, have an optional param to go over all decks at once

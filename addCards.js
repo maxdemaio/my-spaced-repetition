@@ -8,7 +8,7 @@ var readline = require('readline');
 var rl = readline.createInterface(process.stdin, process.stdout);
 
 // Set card deck
-language = "French"
+language = "Russian"
 var cardFile = 'cards' + language + '.json'
 
 console.log(`Language: ${language}\n` +
