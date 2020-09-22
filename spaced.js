@@ -13,8 +13,15 @@
 var fs = require('fs');
 var readline = require('readline');
 
-var language = 'French'
-var cardFile = 'cards' + language + '.json',
+// Default language
+var language = "french";
+
+// Take in any command line arguments (if any)
+if (process.argv[2]) {
+  language = process.argv[2];
+}
+
+var cardFile = "./cardDecks/" + language + ".json",
   quizList = [],
   quizTimer = 4000,
   today = new Date(),

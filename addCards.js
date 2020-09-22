@@ -7,9 +7,16 @@ var fs = require('fs');
 var readline = require('readline');
 var rl = readline.createInterface(process.stdin, process.stdout);
 
+// Default language
+var language = "french";
+
+// Take in any command line arguments (if any)
+if (process.argv[2]) {
+    language = process.argv[2];
+}
+
 // Set card deck
-language = "Russian"
-var cardFile = 'cards' + language + '.json'
+var cardFile = "./cardDecks/" + language + ".json"
 
 console.log(`Language: ${language}\n` +
     "Welcome to Command Line Spaced Repetition (Add cards)!\n" +
