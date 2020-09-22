@@ -28,17 +28,15 @@ To run
 - On the command line run:
     - `node spaced.js example`
 
-- Note: You can either specify the name of the deck via the command line or change the default language variable and just run `node space.js`
-
 Add cards via the command line
 ------
 
 - If you prefer to add cards via the command line rather than editting the raw JSON file you can run:
     - `node addCards.js example`
 
-- Note: You can either specify the name of the deck via the command line or change the default language variable and just run `node addCards.js`
+- Here you will be able to add new cards to a specified deck. You can also provide examples (delimited by underscores). Each example will be shown along with the answer in spaced repetition practice.
 
-Here you will be able to add new cards to a specified deck. You can also provide examples (delimited by underscores). Each example will be shown along with the answer in spaced repetition practice.
+Note: You can either specify the name of the deck via the command line or change the default language variable and just run `node space.js` or `node addCards.js`
 
 
 The Best Way to Learn a Foreign Language
