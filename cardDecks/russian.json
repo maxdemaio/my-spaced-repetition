@@ -269,11 +269,11 @@
   {
     "side1": "собака",
     "side2": "(nf) dog",
-    "nextDate": "2020-09-21T04:00:00.000Z",
+    "nextDate": "2020-09-30T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.36
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.46
   },
   {
     "side1": "меня зовут",
@@ -287,25 +287,52 @@
   {
     "side1": "как сказать...",
     "side2": "(expr) how do you say...",
-    "nextDate": "2020-09-21T04:00:00.000Z",
+    "nextDate": "2020-09-30T04:00:00.000Z",
     "prevDate": "2020-09-20T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.5
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.6
   },
   {
     "side1": "что не так?",
-    "side2": "(expr) What's wrong?"
+    "side2": "(expr) What's wrong?",
+    "nextDate": "2020-09-25T04:00:00.000Z",
+    "prevDate": "2020-09-24T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "пожалуйста",
-    "side2": "(expr) please"
+    "side2": "(expr) please",
+    "nextDate": "2020-09-25T04:00:00.000Z",
+    "prevDate": "2020-09-24T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
   },
   {
     "side1": "отлично",
     "side2": "(adj) perfect",
     "examples": [
       "Всё отлично!"
-    ]
+    ],
+    "nextDate": "2020-09-25T04:00:00.000Z",
+    "prevDate": "2020-09-24T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "ещё раз",
+    "side2": "(expr) again",
+    "examples": [
+      "Можете сказать ещё раз"
+    ],
+    "nextDate": "2020-09-25T04:00:00.000Z",
+    "prevDate": "2020-09-24T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]

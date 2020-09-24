@@ -146,11 +146,11 @@
   {
     "side1": "cane",
     "side2": "(nm) dog",
-    "nextDate": "2020-09-24T04:00:00.000Z",
+    "nextDate": "2020-10-03T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 6,
-    "reps": 3,
-    "EF": 2.8000000000000003
+    "interval": 9,
+    "reps": 4,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "popolo",
@@ -158,11 +158,11 @@
     "examples": [
       "Noi siamo con il popolo"
     ],
-    "nextDate": "2020-09-21T04:00:00.000Z",
+    "nextDate": "2020-09-30T04:00:00.000Z",
     "prevDate": "2020-09-20T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   },
   {
     "side1": "popolazione",
@@ -170,10 +170,10 @@
     "examples": [
       "La popolazione della città"
     ],
-    "nextDate": "2020-09-21T04:00:00.000Z",
+    "nextDate": "2020-09-30T04:00:00.000Z",
     "prevDate": "2020-09-20T04:00:00.000Z",
-    "interval": 1,
-    "reps": 1,
-    "EF": 2.6
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.7
   }
 ]
