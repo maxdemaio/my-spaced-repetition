@@ -31,9 +31,9 @@
     - `cardCount` - Integer that is incremented in order to grab current card from array
 
 - Algorithm
-    - **repetitions**: this is the number of times a user sees a flashcard. 0 means they haven't studied it yet, 1 means it is their first time, and so on. It is also referred to as n in some of the documentation.
+    - **repetitions**: this is the number of times a user sees a flashcard. 0 means they haven't studied it yet, 1 means it is their first time, and so on. It is also referred to as `n` in some of the documentation.
     - **grade**: also known as quality of assessment. This is how difficult (as defined by the user) a flashcard is. The scale is from 0 to 5.
-    - **easiness**: this is also referred to as the easiness factor or EFactor or EF. It is multiplier used to increase the "space" in spaced repetition. The range is from 1.3 to 2.5.
+    - **easiness**: this is also referred to as the easiness factor or EFactor or EF. It is multiplier used to increase the "space" in spaced repetition. The range is from 1.3 to infinity (The easier it is, the harder [longer intervals] it gets, so it's self balancing).
     - **interval**: this is the length of time (in days) between repetitions. It is the "space" of spaced repetition.
     - **nextPractice**: This is the date/time of when the flashcard comes due to review again.
 
