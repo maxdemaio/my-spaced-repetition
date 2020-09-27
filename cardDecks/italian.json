@@ -175,5 +175,58 @@
     "interval": 6,
     "reps": 2,
     "EF": 2.7
+  },
+  {
+    "side1": "rubare",
+    "side2": "(vtr) to steal"
+  },
+  {
+    "side1": "rispettare",
+    "side2": "(vtr) to resepect",
+    "examples": [
+      "Bisogna rispettare la natura"
+    ]
+  },
+  {
+    "side1": "pianta",
+    "side2": "(nf) plant / map, drawing, diagram",
+    "examples": [
+      "Una pianta nella mia stanza",
+      "Le piante degli edifici"
+    ]
+  },
+  {
+    "side1": "infatti",
+    "side2": "(adv) sure enough, as a matter of fact, indeed"
+  },
+  {
+    "side1": "insomma",
+    "side2": "(adv) so, therefore, in conclusion"
+  },
+  {
+    "side1": "toccare",
+    "side2": "(vtr/vi) to touch",
+    "examples": [
+      "Non toccare la teglia"
+    ]
+  },
+  {
+    "side1": "basta",
+    "side2": "(expr) enough!, stop!",
+    "examples": [
+      "Basta con questo chiasso!"
+    ]
+  },
+  {
+    "side1": "cibo",
+    "side2": "(nm) food"
+  },
+  {
+    "side1": "caspita",
+    "side2": "(expr) dang!, darn!, jeez!",
+    "examples": [
+      "Che caspita!",
+      "Caspita, che bella macchina!"
+    ]
   }
 ]
