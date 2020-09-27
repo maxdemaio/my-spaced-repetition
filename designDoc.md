@@ -1,23 +1,25 @@
 # Design of Project
 
 ## Conventions
-    - adv:  adverb
-    - pron: pronoun
-    - adj:  adjective
-    - noun: noun
-    - nm:   masculine noun
-    - nf:   feminine noun
-    - nn:   neutral noun
-    - conj: conjuction
-    - phr:  phrase
-    - det:  determiner
-    - vi:   intransitive verb
-    - vf:   reflexive verb
-    - vtr:  transitive verb
-    - vftr: reflexive transitive verb
-    - vfi:  reflexive intransitive verb
-    - prep: preposition
-    - loc:  locution
+    - adv:      adverb
+    - pron:     pronoun
+    - adj:      adjective
+    - noun:     noun
+    - nm:       masculine noun
+    - nf:       feminine noun
+    - nn:       neutral noun
+    - conj:     conjuction
+    - phr:      phrase
+    - det:      determiner
+    - vi:       intransitive verb
+    - vf:       reflexive verb
+    - vtr:      transitive verb
+    - vftr:     reflexive transitive verb
+    - vfi:      reflexive intransitive verb
+    - prep:     preposition
+    - loc:      locution
+    - interj:   interjection
+    - expr:     expression
 
 ---
 ## `spaced.js`
