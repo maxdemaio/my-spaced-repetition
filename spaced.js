@@ -22,7 +22,6 @@ if (process.argv[2]) {
 }
 
 var cardFile = "./cardDecks/" + language + ".json",
-  quizList = [],
   quizTimer = 4000,
   today = new Date(),
   cards = [],
@@ -97,14 +96,14 @@ function getNextCard(card) {
     endOfCardList();
     return;
   }
-  //defaults if new card
+  // Defaults if new card
   if (!card.nextDate) { card.nextDate = today; }
   if (!card.prevDate) { card.prevDate = today; }
   if (!card.interval) { card.interval = 0; }
   if (!card.reps) { card.reps = 0; }
   if (!card.EF) { card.EF = 2.5; }
 
-  var nextDate = new Date(card.nextDate); //convert to comparable date type
+  var nextDate = new Date(card.nextDate); // Convert to comparable date type
   if (nextDate <= today) {
     quizCard(card);
   } else {
@@ -135,7 +134,7 @@ function parseCardGrade(line, card) {
     cardCounter++;
     getNextCard(cards[cardCounter]);
 
-  } else { //Bad input
+  } else { // Bad input for grade
     getUserInput("Please enter 0-5 for... " + card.side2 + ": ", parseCardGrade, card);
   }
 }
@@ -147,23 +146,25 @@ function parseCardGrade(line, card) {
 //        (4-5) Reps + 1, interval is calculated using EF, increasing in time.
 function calcIntervalEF(card, grade) {
   var oldEF = card.EF,
-    newEF = 0,
-    nextDate = new Date(today);
+  newEF = 0,
+  nextDate = new Date(today);
 
+  // Set repetitions
   if (grade < 3) {
     card.reps = 0;
     card.interval = 0;
   } else {
-
+    // Calculate Easiness Factor
     newEF = oldEF + (0.1 - (5 - grade) * (0.08 + (5 - grade) * 0.02));
-    if (newEF < 1.3) { // 1.3 is the minimum EF
+    // 1.3 is the minimum EF
+    if (newEF < 1.3) {
       card.EF = 1.3;
     } else {
       card.EF = newEF;
     }
-    // Card studied, so add rep
+    
+    // Calculate the interval 
     card.reps = card.reps + 1;
-
     switch (card.reps) {
       case 1:
         card.interval = 1;
@@ -181,6 +182,7 @@ function calcIntervalEF(card, grade) {
     card.interval = 0;
   }
 
+  // Set next practice date based on interval
   nextDate.setDate(today.getDate() + card.interval);
   card.nextDate = nextDate;
 }
@@ -190,6 +192,7 @@ function writeCardFile(cardFile) {
   console.log("\nProgress saved back to file.");
 }
 
+// Start program
 cards = readCardFile(cardFile);
 count = cardQuizCount();
 preQuiz(count);

@@ -83,38 +83,38 @@
   {
     "side1": "partita",
     "side2": "(nf) game, match",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "sopra",
     "side2": "(adv/prep) above, on top of, atop",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-08T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "sotto",
     "side2": "(adv/prep) under, underneath, below, beneath",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-08T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "roba",
     "side2": "(nf) stuff, thing",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-08T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "ormai",
@@ -128,20 +128,20 @@
   {
     "side1": "che schifo!",
     "side2": "(phr) How gross!, How disgusting!, Yuck!",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "scarso",
     "side2": "(adj) scarce, inadequate, lacking",
-    "nextDate": "2020-09-26T04:00:00.000Z",
+    "nextDate": "2020-10-08T04:00:00.000Z",
     "prevDate": "2020-08-11T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.6
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.7
   },
   {
     "side1": "cane",
@@ -178,14 +178,24 @@
   },
   {
     "side1": "rubare",
-    "side2": "(vtr) to steal"
+    "side2": "(vtr) to steal",
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "rispettare",
     "side2": "(vtr) to resepect",
     "examples": [
       "Bisogna rispettare la natura"
-    ]
+    ],
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "pianta",
@@ -193,33 +203,63 @@
     "examples": [
       "Una pianta nella mia stanza",
       "Le piante degli edifici"
-    ]
+    ],
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "infatti",
-    "side2": "(adv) sure enough, as a matter of fact, indeed"
+    "side2": "(adv) sure enough, as a matter of fact, indeed",
+    "nextDate": "2020-10-03T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 6,
+    "reps": 2,
+    "EF": 2.36
   },
   {
     "side1": "insomma",
-    "side2": "(adv) so, therefore, in conclusion"
+    "side2": "(adv) so, therefore, in conclusion",
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "toccare",
     "side2": "(vtr/vi) to touch",
     "examples": [
       "Non toccare la teglia"
-    ]
+    ],
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "basta",
     "side2": "(expr) enough!, stop!",
     "examples": [
       "Basta con questo chiasso!"
-    ]
+    ],
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "cibo",
-    "side2": "(nm) food"
+    "side2": "(nm) food",
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "caspita",
@@ -227,6 +267,29 @@
     "examples": [
       "Che caspita!",
       "Caspita, che bella macchina!"
-    ]
+    ],
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "scherzare",
+    "side2": "(vi) to joke around, to joke, to kid",
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
+  },
+  {
+    "side1": "inutile",
+    "side2": "(adj) useless, pointless",
+    "nextDate": "2020-09-28T04:00:00.000Z",
+    "prevDate": "2020-09-27T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]
