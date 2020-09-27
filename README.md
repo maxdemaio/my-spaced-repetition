@@ -24,7 +24,7 @@ To run
 ------
 
 - Make sure you have [Node.js](http://nodejs.org) installed.
-- Clone the repo and create your word list (see `example.json`)
+- Clone the repo and create your card deck (see `example.json`)
 - On the command line run:
     - `node spaced.js example`
 
