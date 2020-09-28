@@ -92,10 +92,10 @@
   {
     "side1": "Спасибо",
     "side2": "(phr) Thank you",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
+    "interval": 11,
+    "reps": 5,
     "EF": 2.7
   },
   {
@@ -137,11 +137,11 @@
   {
     "side1": "молоко",
     "side2": "(nn) milk",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-10T04:00:00.000Z",
     "prevDate": "2020-08-12T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Вода",
@@ -155,29 +155,29 @@
   {
     "side1": "сестра",
     "side2": "(nf) sister",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "это",
     "side2": "(phr) this is...",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-10T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.8000000000000003
+    "interval": 12,
+    "reps": 5,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "Пицца",
     "side2": "(nf) pizza",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-13T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.7
+    "interval": 11,
+    "reps": 5,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "добрый вечер",
@@ -191,10 +191,10 @@
   {
     "side1": "добрый день",
     "side2": "(phr) good afternoon",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-16T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
+    "interval": 11,
+    "reps": 5,
     "EF": 2.7
   },
   {
@@ -209,20 +209,20 @@
   {
     "side1": "доброе утро",
     "side2": "(phr) good morning",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-08-16T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
+    "interval": 11,
+    "reps": 5,
     "EF": 2.7
   },
   {
     "side1": "до скорого",
     "side2": "(phr) See you",
-    "nextDate": "2020-09-28T04:00:00.000Z",
+    "nextDate": "2020-10-10T04:00:00.000Z",
     "prevDate": "2020-08-16T04:00:00.000Z",
-    "interval": 8,
-    "reps": 4,
-    "EF": 2.5
+    "interval": 12,
+    "reps": 6,
+    "EF": 2.36
   },
   {
     "side1": "до свиданя",
@@ -334,5 +334,17 @@
     "interval": 6,
     "reps": 2,
     "EF": 2.7
+  },
+  {
+    "side1": "уже",
+    "side2": "(adv) already, by now",
+    "examples": [
+      "иван уже здесь?"
+    ],
+    "nextDate": "2020-09-29T04:00:00.000Z",
+    "prevDate": "2020-09-28T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]

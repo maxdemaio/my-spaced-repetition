@@ -407,8 +407,8 @@
     "EF": 2.66
   },
   {
-    "side1": "tiens",
-    "side2": "(expr) here!, here you go (informal interjection)",
+    "side1": "tiens!",
+    "side2": "(interj) here!, here you go (informal interjection)",
     "nextDate": "2020-09-29T04:00:00.000Z",
     "prevDate": "2020-09-05T04:00:00.000Z",
     "interval": 8,
@@ -888,5 +888,53 @@
   {
     "side1": "tant mieux!",
     "side2": "(interj) fine!, good!, so much the better"
+  },
+  {
+    "side1": "arnaque",
+    "side2": "(nf) fraud, robbery, scam",
+    "examples": [
+      "Il y a beaucoup d'arnaques sur internet"
+    ]
+  },
+  {
+    "side1": "taupe",
+    "side2": "(nf) mole"
+  },
+  {
+    "side1": "repoussant",
+    "side2": "(adj) repulsive, repellent"
+  },
+  {
+    "side1": "faire le plein de [qch]",
+    "side2": "(loc + prep) stock up on sth",
+    "examples": [
+      "J'ai fait le plein de chocolat"
+    ]
+  },
+  {
+    "side1": "carrément",
+    "side2": "(adv) totally, really / straight out / (interj) You bet! / (interj) No way!"
+  },
+  {
+    "side1": "déchirer",
+    "side2": "(vtr) to tear, to rip / to tear [sth] up, to rip [sth] up",
+    "examples": [
+      "J'ai déchiré mon jean"
+    ]
+  },
+  {
+    "side1": "filtrer",
+    "side2": "(vi/vtr) to filter",
+    "examples": [
+      "Le lendemain on filtre",
+      "Je filtre le jus d'orange"
+    ]
+  },
+  {
+    "side1": "étaler",
+    "side2": "(vtr) to spread out, to spread",
+    "examples": [
+      "Les feuilles tu vas les étaler"
+    ]
   }
 ]
