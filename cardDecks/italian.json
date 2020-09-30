@@ -241,8 +241,8 @@
     "EF": 2.6
   },
   {
-    "side1": "basta",
-    "side2": "(expr) enough!, stop!",
+    "side1": "basta!",
+    "side2": "(interj) enough!, stop!",
     "examples": [
       "Basta con questo chiasso!"
     ],
@@ -291,5 +291,35 @@
     "interval": 6,
     "reps": 2,
     "EF": 2.7
+  },
+  {
+    "side1": "aprire",
+    "side2": "(vtr) to open",
+    "examples": [
+      "Hanno aperto un nuovo centro commerciale"
+    ]
+  },
+  {
+    "side1": "cinema",
+    "side2": "(nm) cinema"
+  },
+  {
+    "side1": "Buon compleanno",
+    "side2": "(expr) Happy birthday"
+  },
+  {
+    "side1": "scienza",
+    "side2": "(nf) science"
+  },
+  {
+    "side1": "regalo",
+    "side2": "(nm) gift"
+  },
+  {
+    "side1": "albergo",
+    "side2": "(nm) hotel",
+    "examples": [
+      "Questo è il nostro albergo"
+    ]
   }
 ]

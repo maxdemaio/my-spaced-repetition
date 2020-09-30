@@ -8,7 +8,7 @@ var readline = require('readline');
 var rl = readline.createInterface(process.stdin, process.stdout);
 
 // Default language
-var language = "french";
+var language = "italian";
 
 // Take in any command line arguments (if any)
 if (process.argv[2]) {
