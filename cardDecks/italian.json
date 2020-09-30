@@ -321,5 +321,19 @@
     "examples": [
       "Questo è il nostro albergo"
     ]
+  },
+  {
+    "side1": "fermata",
+    "side2": "(nf) stop [bus stop]",
+    "examples": [
+      "C'è una fermata qui vicino"
+    ]
+  },
+  {
+    "side1": "spiaggia",
+    "side2": "(nf) beach",
+    "examples": [
+      "è la giornata perfetta per la spiaggia"
+    ]
   }
 ]
