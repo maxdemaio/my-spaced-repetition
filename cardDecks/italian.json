@@ -335,5 +335,20 @@
     "examples": [
       "è la giornata perfetta per la spiaggia"
     ]
+  },
+  {
+    "side1": "eccitante",
+    "side2": "(adj) exciting"
+  },
+  {
+    "side1": "dimenticare",
+    "side2": "(vtr) to forget",
+    "examples": [
+      "Non voglio dimenticare niente"
+    ]
+  },
+  {
+    "side1": "Che cadello!",
+    "side2": "(expr) (northern dialect) what a mess!"
   }
 ]
