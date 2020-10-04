@@ -2,83 +2,83 @@
   {
     "side1": "Aglio",
     "side2": "(nm) garlic",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-19T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 3.0000000000000004
+    "interval": 16,
+    "reps": 6,
+    "EF": 3.1000000000000005
   },
   {
     "side1": "Affrontare",
     "side2": "(vtr) To take on, To confront",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-18T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 2.9000000000000004
+    "interval": 15,
+    "reps": 6,
+    "EF": 3.0000000000000004
   },
   {
     "side1": "Impaziente",
     "side2": "(adj) Impatient",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-19T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 3.0000000000000004
+    "interval": 16,
+    "reps": 6,
+    "EF": 3.1000000000000005
   },
   {
     "side1": "Decisamente",
     "side2": "(adv) Certainly/No doubt",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-19T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 3.0000000000000004
+    "interval": 16,
+    "reps": 6,
+    "EF": 3.1000000000000005
   },
   {
     "side1": "Megera",
     "side2": "(nf) Witch/Crone/Harpy",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-19T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 3.0000000000000004
+    "interval": 16,
+    "reps": 6,
+    "EF": 3.1000000000000005
   },
   {
     "side1": "Pazzo",
     "side2": "(adj) Crazy/Mad/Insane",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-19T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 3.0000000000000004
+    "interval": 16,
+    "reps": 6,
+    "EF": 3.1000000000000005
   },
   {
     "side1": "romanzo",
     "side2": "(nm) novel",
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-18T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 12,
-    "reps": 5,
-    "EF": 2.9000000000000004
+    "interval": 15,
+    "reps": 6,
+    "EF": 3.0000000000000004
   },
   {
     "side1": "croce",
     "side2": "(nf) cross",
-    "nextDate": "2020-09-29T04:00:00.000Z",
+    "nextDate": "2020-10-18T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 11,
-    "reps": 5,
-    "EF": 2.8000000000000003
+    "interval": 15,
+    "reps": 6,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "finché",
     "side2": "(conj) as long as",
-    "nextDate": "2020-09-29T04:00:00.000Z",
+    "nextDate": "2020-10-18T04:00:00.000Z",
     "prevDate": "2020-08-10T04:00:00.000Z",
-    "interval": 11,
-    "reps": 5,
-    "EF": 2.8000000000000003
+    "interval": 15,
+    "reps": 6,
+    "EF": 2.9000000000000004
   },
   {
     "side1": "partita",
@@ -146,11 +146,11 @@
   {
     "side1": "cane",
     "side2": "(nm) dog",
-    "nextDate": "2020-10-03T04:00:00.000Z",
+    "nextDate": "2020-10-15T04:00:00.000Z",
     "prevDate": "2020-09-06T04:00:00.000Z",
-    "interval": 9,
-    "reps": 4,
-    "EF": 2.9000000000000004
+    "interval": 12,
+    "reps": 5,
+    "EF": 3.0000000000000004
   },
   {
     "side1": "popolo",
@@ -158,11 +158,11 @@
     "examples": [
       "Noi siamo con il popolo"
     ],
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-09-20T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "popolazione",
@@ -170,11 +170,11 @@
     "examples": [
       "La popolazione della città"
     ],
-    "nextDate": "2020-09-30T04:00:00.000Z",
+    "nextDate": "2020-10-09T04:00:00.000Z",
     "prevDate": "2020-09-20T04:00:00.000Z",
     "interval": 6,
-    "reps": 2,
-    "EF": 2.7
+    "reps": 3,
+    "EF": 2.8000000000000003
   },
   {
     "side1": "rubare",
@@ -213,11 +213,11 @@
   {
     "side1": "infatti",
     "side2": "(adv) sure enough, as a matter of fact, indeed",
-    "nextDate": "2020-10-03T04:00:00.000Z",
+    "nextDate": "2020-10-08T04:00:00.000Z",
     "prevDate": "2020-09-27T04:00:00.000Z",
-    "interval": 6,
-    "reps": 2,
-    "EF": 2.36
+    "interval": 5,
+    "reps": 3,
+    "EF": 2.46
   },
   {
     "side1": "insomma",
@@ -297,58 +297,113 @@
     "side2": "(vtr) to open",
     "examples": [
       "Hanno aperto un nuovo centro commerciale"
-    ]
+    ],
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "cinema",
-    "side2": "(nm) cinema"
+    "side2": "(nm) cinema",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "Buon compleanno",
-    "side2": "(expr) Happy birthday"
+    "side2": "(expr) Happy birthday",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.5
   },
   {
     "side1": "scienza",
-    "side2": "(nf) science"
+    "side2": "(nf) science",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "regalo",
-    "side2": "(nm) gift"
+    "side2": "(nm) gift",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "albergo",
     "side2": "(nm) hotel",
     "examples": [
       "Questo è il nostro albergo"
-    ]
+    ],
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "fermata",
     "side2": "(nf) stop [bus stop]",
     "examples": [
       "C'è una fermata qui vicino"
-    ]
+    ],
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "spiaggia",
     "side2": "(nf) beach",
     "examples": [
       "è la giornata perfetta per la spiaggia"
-    ]
+    ],
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "eccitante",
-    "side2": "(adj) exciting"
+    "side2": "(adj) exciting",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "dimenticare",
     "side2": "(vtr) to forget",
     "examples": [
       "Non voglio dimenticare niente"
-    ]
+    ],
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   },
   {
     "side1": "Che cadello!",
-    "side2": "(expr) (northern dialect) what a mess!"
+    "side2": "(expr) (northern dialect) what a mess!",
+    "nextDate": "2020-10-04T04:00:00.000Z",
+    "prevDate": "2020-10-03T04:00:00.000Z",
+    "interval": 1,
+    "reps": 1,
+    "EF": 2.6
   }
 ]
