@@ -1023,5 +1023,34 @@
     "interval": 1,
     "reps": 1,
     "EF": 2.6
+  },
+  {
+    "side1": "agacer",
+    "side2": "(vtr) to annoy, to irritate, to get on your nerves",
+    "examples": [
+      "C'est un truc qui nous agace profondément"
+    ]
+  },
+  {
+    "side1": "renoncer à [qch]",
+    "side2": "(vtr/vi) to renounce sth, to give up on something, not do sth anymore",
+    "examples": [
+      "C'est trop difficile, je renonce",
+      "Renoncer à quelque chose"
+    ]
+  },
+  {
+    "side1": "nourrir",
+    "side2": "(vtr) to feed",
+    "examples": [
+      "Nourrir le système patriarcal"
+    ]
+  },
+  {
+    "side1": "en tant que tel",
+    "side2": "(loc adv) in its current form, as it is, as such",
+    "examples": [
+      "Pour être accepté en tant que tel"
+    ]
   }
 ]
