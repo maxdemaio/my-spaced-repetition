@@ -38,25 +38,7 @@ Add cards via the command line
 
 Note: You can either specify the name of the deck via the command line or change the default language variable and just run `node space.js` or `node addCards.js`
 
-
-The Best Way to Learn a Foreign Language
+Export cards to Anki
 ------
 
-The best way to learn a foreign language is described by Luca Lampariello in a [YouTube video](https://www.youtube.com/watch?v=SDLlhUv519k) dispelling there actually is no "best" way to learn one. Everyone is different, so there's no cookie cutter way to achieving foreign language success. Here I will provide cliff notes to his methodology, and how to use this program to help you learn a foreign language.
-
-### Methodology
-1. Unique to your circumstances
-2. Enjoyable in a way that suits your interests
-3. Flexible to different learning scenarios and environments
-4. Enables you to learn every day
-5. Built around comprehensible input
-6. It should incorporate all 4 language skills
-    - Reading
-    - Writing
-    - Listening
-    - Speaking
-7. It should grow and evolve according to your own experiences and desires
-
-Using `my-spaced-repetition`, you can start compounding your vocabulary progression. As shown on the graph, the more you revisit a word the more likely you are to remember it. You can run this program from the command line anytime and anywhere, no Wi-Fi needed.
-
-In my opinion, the best way to use this program is through steps 2, 5, and 6. While you are learning from content you enjoy, write down in the program vocabulary you would like to learn along with an example in the context in which you found it. This should really help solidify your language learning skills over time the more you practice.
+To take your card decks an export them to Anki: simply navigate to the `ankiExport.js` file, change the `language` variable to the name of the deck you would like to export, and run `node ankiExport.js` in the terminal.

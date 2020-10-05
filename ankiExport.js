@@ -16,11 +16,17 @@ function exportDeck() {
         
         // front/back side
         for (var x = 0; x < cards.length; x++) {
-            currentCard = cards[x];
-            console.log(currentCard)
-            };
+            var currentCard = cards[x];
+            var front = currentCard.side1;
+            var back = currentCard.side2;
+
+            fs.appendFile(`${language}.txt`, front + "\t" + back + "\n", function (err) {
+                if (err) throw err;
+            });
+        };   
     });
 };
 
 // Start program
 exportDeck();
+console.log('Exported!');
